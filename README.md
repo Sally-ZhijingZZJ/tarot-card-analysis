@@ -20,8 +20,6 @@ Note: since it was my first time tried to generate data with chatgpt, the datase
 Somehow the torch model perform poorly compare to the sklearn one, maybe bacause I didn't set up things properly for this model.
 <br>
 <br>
--TEXT GENERATION MODEL:<br>
-This model I hadn't had figured how to build this model yet, but ideally it's going to take in card name, whether it's upright or reversed, and the location it lies in a spread, and generate an analysis baased on that. 
 <br>
 REFERENCES:<br>
 tarot info:https://labyrinthos.co/blogs/learn-tarot-with-labyrinthos-academy
