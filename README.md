@@ -24,5 +24,4 @@ Somehow the torch model perform poorly compare to the sklearn one, maybe bacause
 This model I hadn't had figured how to build this model yet, but ideally it's going to take in card name, whether it's upright or reversed, and the location it lies in a spread, and generate an analysis baased on that. 
 <br>
 REFERENCES:<br>
-model:https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html<br>
 tarot info:https://labyrinthos.co/blogs/learn-tarot-with-labyrinthos-academy
