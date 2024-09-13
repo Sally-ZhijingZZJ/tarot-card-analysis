@@ -12,12 +12,6 @@ output=New Years Tarot Spread<br>
 -input=how to resolve a challenge I'm facing in a relationship?<br>
 output=Chakras Love Tarot Spread<br>
 <br>
-torch EX:<br>
--input=How to improve my career?<br>
-output=Facing Challenges Career Tarot Spread<br>
-<br>
--input=how to make a good decision?<br>
-output=5 Card Tarot Spread for Decision Making
 <br>
 Note: since it was my first time tried to generate data with chatgpt, the dataset does not use a large variety of words, which cause the model to beave poorly with words that does not appeared in the dataset.(e.g. if input text contains "love", it will most likely classify the text into correct class, but if "boyfriend"/"girlfriend" are appeared in a question instead of "love", the model is likely to classify that into a wrong class.)<br>
 <br>
