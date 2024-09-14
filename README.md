@@ -21,5 +21,6 @@ Somehow the torch model perform poorly compare to the sklearn one, maybe bacause
 <br>
 <br>
 <br>
+The tarot card analysis folder contains only the data I generated to use for my future model. The model currently contains partial data for chakras love spread(still missing a few cards). Each row contains the tarot card name, whether it;s reversed or upright, it's position in the spread, and the analysis.
 REFERENCES:<br>
 tarot info:https://labyrinthos.co/blogs/learn-tarot-with-labyrinthos-academy
